@@ -1,4 +1,25 @@
 <details>
+  <summary>ISM 2025 Question paper</summary>
+
+---
+---
+
+![image](https://github.com/user-attachments/assets/19e12afe-db91-42a0-a2a4-7c17e2c89282)
+![image](https://github.com/user-attachments/assets/abaeea7b-d602-42fd-bbc7-83b881992bed)
+![image](https://github.com/user-attachments/assets/3d00895e-4ff7-4a17-a8b0-31a0db34a8d8)
+ 
+
+
+</details>
+
+---
+---
+
+
+
+
+
+<details>
   <summary>ISM 2024 Question paper</summary>
 
 ---
@@ -15,7 +36,7 @@
 ---
 
 
-
+## ISM 2024
 ```
                                  Part - A
 
