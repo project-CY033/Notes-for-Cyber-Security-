@@ -16,10 +16,13 @@
 
 - Byzantine Generals' Computing Problems [Go](https://www.geeksforgeeks.org/byzantine-generals-problem-in-blockchain/)  
 
-- Public-Key Cryptography [Go]()  
-- Hashing [Go]()  
-- Distributed Systems [Go]()  
-- Distributed Consensus [Go]()  
+- Public-Key Cryptography [Go](https://www.geeksforgeeks.org/blockchain-public-key-cryptography/)
+  
+- Hashing [Go](https://www.tpointtech.com/blockchain-hash-function)
+  
+- Distributed Systems [Go](https://www.geeksforgeeks.org/blockchain-technology-and-distributed-systems/)  
+
+- Distributed Consensus [Go](https://www.geeksforgeeks.org/distributed-consensus-in-distributed-systems/)  
 
 ---
 
