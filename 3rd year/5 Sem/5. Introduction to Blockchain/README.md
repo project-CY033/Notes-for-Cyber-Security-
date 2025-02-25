@@ -14,7 +14,8 @@
 - The Double-Spend Problem [Go](https://www.tpointtech.com/blockchain-double-spending)
  
 
-- Byzantine Generals' Computing Problems [Go]()  
+- Byzantine Generals' Computing Problems [Go](https://www.geeksforgeeks.org/byzantine-generals-problem-in-blockchain/)  
+
 - Public-Key Cryptography [Go]()  
 - Hashing [Go]()  
 - Distributed Systems [Go]()  
