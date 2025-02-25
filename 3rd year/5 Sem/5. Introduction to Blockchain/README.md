@@ -11,23 +11,25 @@
 ---
 
 ## Unit 2: Basics  
-- The Double-Spend Problem [Go](https://www.tpointtech.com/blockchain-double-spending)
+- ### The Double-Spend Problem [Go](https://www.tpointtech.com/blockchain-double-spending)
  
 
-- Byzantine Generals' Computing Problems [Go](https://www.geeksforgeeks.org/byzantine-generals-problem-in-blockchain/)  
+- ### Byzantine Generals' Computing Problems [Go](https://www.geeksforgeeks.org/byzantine-generals-problem-in-blockchain/)  
 
-- Public-Key Cryptography [Go](https://www.geeksforgeeks.org/blockchain-public-key-cryptography/)
+- ### Public-Key Cryptography [Go](https://www.geeksforgeeks.org/blockchain-public-key-cryptography/)
   
-- Hashing [Go](https://www.tpointtech.com/blockchain-hash-function)
+- ### Hashing [Go](https://www.tpointtech.com/blockchain-hash-function)
   
-- Distributed Systems [Go](https://www.geeksforgeeks.org/blockchain-technology-and-distributed-systems/)  
+- ### Distributed Systems [Go](https://www.geeksforgeeks.org/blockchain-technology-and-distributed-systems/)  
 
-- Distributed Consensus [Go](https://www.geeksforgeeks.org/distributed-consensus-in-distributed-systems/)  
+- ### Distributed Consensus [Go](https://www.geeksforgeeks.org/distributed-consensus-in-distributed-systems/)  
 
 ---
 
 ## Unit 3: Technology Stack  
-- Blockchain, Protocol, Currency [Go]()  
+   - ### Blockchain, [Go]()  
+   - ### Protocol, [Go]()  
+   - ### Currency [Go]()  
 
 ### Bitcoin Blockchain  
 - Structure [Go]()  
