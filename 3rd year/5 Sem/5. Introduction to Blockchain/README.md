@@ -1,7 +1,17 @@
+
+
+
+<details>
+  <summary>IB Syllabus</summary>
+
+---
+---
 ![image](https://github.com/user-attachments/assets/6b8072f2-ae54-4236-8996-4bcf7cf2585a)
+ 
+</details>
 
-
-
+---
+---
 
 
 ---
