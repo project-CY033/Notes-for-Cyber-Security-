@@ -11,7 +11,7 @@
 ---
 
 ## Unit 2: Basics  
-- The Double-Spend Problem [Go]()  
+- The Double-Spend Problem [Go](https://www.tpointtech.com/blockchain-double-spending)  
 - Byzantine Generals' Computing Problems [Go]()  
 - Public-Key Cryptography [Go]()  
 - Hashing [Go]()  
