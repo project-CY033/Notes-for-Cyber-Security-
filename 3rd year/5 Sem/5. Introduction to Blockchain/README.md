@@ -35,7 +35,7 @@
 - Structure [Go]()  
 - 5 Operations [Go]()  
 - Features [Go]()  
-- Consensus Model [Go]()  
+- Consensus Model [Go](https://www.geeksforgeeks.org/consensus-algorithms-in-blockchain/)  
 - Incentive Model [Go]()  
 
 ---
