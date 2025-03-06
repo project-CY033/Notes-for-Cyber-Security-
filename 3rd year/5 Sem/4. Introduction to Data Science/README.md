@@ -62,13 +62,13 @@
 
 ## 5. Unite 6: Basic Machine Learning Algorithms
 - ###    5.1 Classification Algorithms
-- ###        5.1.1 Decision Tree
-- ###        5.1.2 Naive Bayes
-- ###        5.1.3 k-Nearest Neighbors (k-NN)
-- ###        5.1.4 k-Means Clustering
-- ###        5.1.5 Support Vector Machines (SVM)
-- ###    5.2 Association Rule Mining
-- ###    5.3 Ensemble Methods
+- ###        5.1.1 Decision Tree   [Decision Tree](https://www.geeksforgeeks.org/decision-tree/)
+- ###        5.1.2 Naive Bayes   [Naive Bayes](https://www.geeksforgeeks.org/naive-bayes-classifiers/)
+- ###        5.1.3 k-Nearest Neighbors (k-NN)  [k-Nearest Neighbors (k-NN)](https://www.geeksforgeeks.org/k-nearest-neighbours/)
+- ###        5.1.4 k-Means Clustering [k-Means )](https://www.geeksforgeeks.org/k-means-clustering-introduction/)
+- ###        5.1.5 Support Vector Machines (SVM) [ GO)](https://www.geeksforgeeks.org/support-vector-machine-algorithm/)
+- ###    5.2 Association Rule Mining 
+- ###    5.3 [Ensemble method ](https://www.geeksforgeeks.org/ensemble-learning-with-svm-and-decision-trees/)
  
 
 
