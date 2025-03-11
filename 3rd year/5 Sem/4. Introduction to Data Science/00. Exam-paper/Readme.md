@@ -1,4 +1,23 @@
 
+# IDS 2025
+<details >
+<summary >IDS 2025</summary>
+
+---
+---
+
+![image](https://github.com/user-attachments/assets/67e06af7-e7d0-4d3c-8758-9a300fcb57ca)
+![image](https://github.com/user-attachments/assets/d1357c47-7e85-400f-a7af-3f50915b5b72)
+![image](https://github.com/user-attachments/assets/1b3a84f5-e818-4f58-909b-812bd9bb17be)
+
+
+  
+</details>
+
+---
+---
+
+
 # IDS 2024
 <details >
 <summary >IDS 2023-2024</summary>
