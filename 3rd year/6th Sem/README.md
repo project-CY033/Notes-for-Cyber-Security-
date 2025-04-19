@@ -57,12 +57,12 @@
 | Subject                                                                   | Page  | Lab                           |
 |---------------------------------------------------------------------------|-------|-------------------------------|
 | CD (Compiler Design)                                                      | 27    |                               |
-| Design and Analysis of Algorithms (DAA)                                   | 29    |        22                     |
-| Application and Network Security Fundamentals (ANSM)                      | 30    |                               |
-| Network System Vulnerability Assessment (NSVA)                            | 32    |                               |
+| Design and Analysis of Algorithms (DAA)                                   | 29    |        39                     |
+| Application and Network Security Fundamentals (ANSM)                      | 30    |        41                     |
+| Network System Vulnerability Assessment (NSVA)                            | 32    |        40                     |
 | Introduction to Cyber Crime, Law and Investigation (ICCLI)                | 34    |                               |
 | Internet of Things                                                        | 35    |                               |
- 
+| Innovation and Design Thinking Hands-on Project (IDTH)                    | 43    |                                |
 
 
 
