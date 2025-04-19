@@ -21,19 +21,31 @@
 
 
 
-# 
+# ANSF -----> 30
 ---
+![image](https://github.com/user-attachments/assets/66dc5858-3015-4a75-a4a8-bb5827827b19)
+![image](https://github.com/user-attachments/assets/89dcbfa7-dc4d-41fa-844a-7d98fc1d5c17)
+
 
   
-# 
+# NSVA ---> 32
 ---
+![image](https://github.com/user-attachments/assets/a3efe731-fe56-453b-9b2e-086c5264b622)
+![image](https://github.com/user-attachments/assets/4fbb2547-23e0-4e02-a110-e4b59b5c2311)
 
 
-# 
+
+# ICCLI ----> 34
 ---
+![image](https://github.com/user-attachments/assets/f670be23-317d-44cd-a3be-fad09bb0b5f7)
 
 
-# 
+# IOT ---> 35
 ---
+![image](https://github.com/user-attachments/assets/e81b348b-55b5-4318-b8f8-0050db52f652)
+
+
+
+
 
 </details>
