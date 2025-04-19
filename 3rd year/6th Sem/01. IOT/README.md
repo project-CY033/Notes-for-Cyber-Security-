@@ -2,7 +2,7 @@
 
 # IOT syllabus
 ---
----
+
 <details>
 
  <summary>IOT </summary>
