@@ -49,3 +49,21 @@
 
 
 </details>
+
+
+
+# 6-Semester  Syllabus
+
+| Subject                                                                   | Page  | Lab                           |
+|---------------------------------------------------------------------------|-------|-------------------------------|
+| CD (Compiler Design)                                                      | 27    |                               |
+| Design and Analysis of Algorithms (DAA)                                   | 29    |        22                     |
+| Application and Network Security Fundamentals (ANSM)                      | 30    |                               |
+| Network System Vulnerability Assessment (NSVA)                            | 32    |                               |
+| Introduction to Cyber Crime, Law and Investigation (ICCLI)                | 34    |                               |
+| Internet of Things                                                        | 35    |                               |
+ 
+
+
+
+
