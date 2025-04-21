@@ -13,4 +13,15 @@
 ![image](https://github.com/user-attachments/assets/dd992c1c-3d9e-4835-8b4f-4f0e9a327062)
 ![image](https://github.com/user-attachments/assets/793f6c27-0e8b-4651-8d06-04056ea3ae0c)
 
-### 
+---
+---
+### travelling salesman Problem
+![image](https://github.com/user-attachments/assets/685d4d0d-35af-4320-8ce3-06f310bd475a)
+![image](https://github.com/user-attachments/assets/196557e2-7d7d-451b-8cd8-4054ab9e23c2)
+![image](https://github.com/user-attachments/assets/f616713e-0764-4f49-b60d-4ac58dbdd01f)
+![image](https://github.com/user-attachments/assets/2585d683-1286-48c3-a6ff-9d261a559749)
+
+
+
+
+
