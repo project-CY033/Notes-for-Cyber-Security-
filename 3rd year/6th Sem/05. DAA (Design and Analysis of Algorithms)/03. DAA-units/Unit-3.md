@@ -29,12 +29,16 @@
 ---
 
 ### The Single Source Shortest-Path Problem: DIJKSTRA'S ALGORITHMS
+![image](https://github.com/user-attachments/assets/373fad33-611d-4109-b614-e53572a65d40)
+![image](https://github.com/user-attachments/assets/526e90a5-5a2e-4f1e-8e59-9a83ed52df1b)
+![image](https://github.com/user-attachments/assets/b1d7c1c5-290a-4b8d-9fb0-af19a222aae8)
+![image](https://github.com/user-attachments/assets/e3ac226b-75b9-4e48-95cf-873a39b567a7)
 
 
 
 
 
-
+---
 ---
 
 ### Huffman Codes
