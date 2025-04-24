@@ -1,7 +1,7 @@
 #  ICCLI ( Introduction to Cyber Crime, Law and Investigation)
 
 
-## Introduction: Objective, scope and outcome of the course.
+## 1. Introduction: Objective, scope and outcome of the course.
 
 ## 2. Cyber World: An overview, The internet and online resources, Security of information, Digital signature.
 
