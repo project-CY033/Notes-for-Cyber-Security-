@@ -53,9 +53,9 @@
      - #### Contiki OS  
      - #### TinyOS  
 
-## **4. Architecture and Reference Model**  
+## **4. Architecture and Reference Model**   
    - #### **Introduction to IoT Architecture**  
-   - #### **Reference Model and Architecture**  
+   - #### **Reference Model and Architecture**  [URl](https://iotnotesbyparita.wordpress.com/architecture-reference-model/)  
    - #### **Representational State Transfer (REST) Architectural Style**  
    - #### **Uniform Resource Identifiers (URIs)**  
    - #### **Challenges in IoT**  
@@ -71,5 +71,13 @@
    - #### **Network Function Virtualization (NFV)**  
    - #### **Difference Between SDN and NFV for IoT**  
    - #### **Case Study of IoT Applications**  
+
+
+
+---
+---
+[READ](https://mail.dsengg.ac.in/pdf/cse/IOT%20COMPLETE%20NOTES.pdf)
+
+
 
  
