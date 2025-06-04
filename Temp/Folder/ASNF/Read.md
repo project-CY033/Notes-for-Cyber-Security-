@@ -1,4 +1,81 @@
+```
+Subject :- ANSF (Application and Network Security Fundamental)
+here is ANSF syllabus  and Lab syllabus  now give me viva question with answer    that ask in practical exame
+
+
+ANSF syllabus
+
+
+
+Unite - 2 Basic Cyber Security Concepts: 
+Concepts of Confidentiality, Integrity and Availability; Threat Modeling, Overview of Security Models (OSI and TCP/IP Models), Cyber Security basic Terminologies 
  
+ 
+
+Unite - 3  Security Threats, Vulnerabilities & Attacks: 
+Network Protocols, Threat, Vulnerability and Attack, TCP Handshaking, Password Based, Address Based, Cryptographic Authentication. Passwords in distributed systems, on-line vs offline guessing, storing. Cryptographic Authentication: passwords as keys, protocols, KDC's Certification Revocation, Inter-domain, groups, delegation. Authentication of People: Verification techniques, passwords, length of passwords, password distribution, smart cards, biometrics. 
+
+Unite - 4  Application Security: 
+Introduction to Applications, Security for electronic commerce: SSL, SET, System security- intrusion detection, malicious software, firewalls. 
+
+Authentication Applications:  Kerberos, X.509 Authentication Service, Electronic Mail Security: Pretty Good Privacy, S/MIME.  
+IP Security: IP Security Overview, IP Security Architecture, Authentication Header, Encapsulating Security Payload, Combining Security Associations, Key Management.
+Kerberos V5: names, realms, delegation, forwarding and proxies, ticket lifetimes, revoking
+tickets, multiple Realms
+
+
+Unite - 5
+Network & Security Devices: Network management security, security hardening guidelines for Network & security devices, Network vulnerability assessment phases, Device Auditing Switch, Firewall, Router, Core-Switch.
+Web Security: Web Security Considerations, Secure Sockets Layer and Transport Layer Security, Secure Electronic Transaction.
+
+
+Unite - 6 
+Security Policies and Handshake: Digital Signatures, Authentication Protocols, Digital Signature Standard, security policy, high and low level policy, user issues, protocol problems, assumptions, shared secret protocols, public key protocols, mutual authentication, 
+
+
+
+
+
+
+
+
+Application and Network Security Fundamental lab
+
+List of Experiments
+
+1. Reporting and analysing the network related threats using tools
+
+
+
+2. Perform the following Scan using Wireshark and analyze your results 
+(a)Analyze TCP session
+
+
+(b) Perform and analyze these scans
+(i) Start a Wireshark capture. Open a Windows-> command window and perform a Host Scan (using ICMP packets) on a neighbours machine using nmap -sP [neighbors ip address]. Stop the capture and filter the traffic for ARP and ICMP packets.
+
+
+(ii)Start a new Wireshark capture, and then perform a host scan (ICMP scan) on a system out with the subnet, such as nmap -sP scanme.nmap.org.(Stop the capture and filter the traffic for ARP and ICMP packets and Compare with previous results.
+
+(iii) Start a new Wireshark capture, and then perform a complete Port Scan (in this case a TCP SYN scan) and an Operating System Fingerprint on a neighbours machine using nmap -O [neighbours ip address]. The -O option should provide the OS running on the scanned machine. Stop the capture and filter for source address == your machines address if necessary.
+
+3. To Analysis Network using Wireshark for 
+(a) Traffic Monitoring (TCP slow down and HTTP slow down)
+(b) Packet Sniffing
+
+ 4. Explore, execute and analysis traffic using TCP Dump and Net discover tools
+
+5. To explore Shodan for 
+(a) locating Boats and Ship Locations
+(b) Searching and capturing Live Cameras.
+(c) To Write a small NSE Script 
+6. To spoof IP address of your own system using Kali Linux
+
+
+```
+
+---
+---
 
 #### 🔐 **Unit 2: Basic Cyber Security Concepts**
 
