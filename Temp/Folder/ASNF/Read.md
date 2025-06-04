@@ -1,44 +1,4 @@
 ```
-Subject :- ANSF (Application and Network Security Fundamental)
-here is ANSF syllabus  and Lab syllabus  now give me viva question with answer    that ask in practical exame
-
-
-ANSF syllabus
-
-
-
-Unite - 2 Basic Cyber Security Concepts: 
-Concepts of Confidentiality, Integrity and Availability; Threat Modeling, Overview of Security Models (OSI and TCP/IP Models), Cyber Security basic Terminologies 
- 
- 
-
-Unite - 3  Security Threats, Vulnerabilities & Attacks: 
-Network Protocols, Threat, Vulnerability and Attack, TCP Handshaking, Password Based, Address Based, Cryptographic Authentication. Passwords in distributed systems, on-line vs offline guessing, storing. Cryptographic Authentication: passwords as keys, protocols, KDC's Certification Revocation, Inter-domain, groups, delegation. Authentication of People: Verification techniques, passwords, length of passwords, password distribution, smart cards, biometrics. 
-
-Unite - 4  Application Security: 
-Introduction to Applications, Security for electronic commerce: SSL, SET, System security- intrusion detection, malicious software, firewalls. 
-
-Authentication Applications:  Kerberos, X.509 Authentication Service, Electronic Mail Security: Pretty Good Privacy, S/MIME.  
-IP Security: IP Security Overview, IP Security Architecture, Authentication Header, Encapsulating Security Payload, Combining Security Associations, Key Management.
-Kerberos V5: names, realms, delegation, forwarding and proxies, ticket lifetimes, revoking
-tickets, multiple Realms
-
-
-Unite - 5
-Network & Security Devices: Network management security, security hardening guidelines for Network & security devices, Network vulnerability assessment phases, Device Auditing Switch, Firewall, Router, Core-Switch.
-Web Security: Web Security Considerations, Secure Sockets Layer and Transport Layer Security, Secure Electronic Transaction.
-
-
-Unite - 6 
-Security Policies and Handshake: Digital Signatures, Authentication Protocols, Digital Signature Standard, security policy, high and low level policy, user issues, protocol problems, assumptions, shared secret protocols, public key protocols, mutual authentication, 
-
-
-
-
-
-
-
-
 Application and Network Security Fundamental lab
 
 List of Experiments
