@@ -12,7 +12,7 @@
   
 </details>
 
---
+---
  
 
 ## 📑 Course Contents
@@ -25,3 +25,30 @@
 | **4** | **Dynamic Programming & Backtracking** | - Principles of Dynamic Programming <br> - Rod Cutting Problem <br> - Floyd-Warshall Algorithm <br> - Matrix Chain Multiplication <br> - Travelling Salesman Problem <br> - Longest Common Subsequence (LCS) <br> - Backtracking Overview <br> - 8-Queens Problem <br> - Knapsack Problem <br> - TSP (Backtracking Approach) |
 | **5** | **Branch and Bound** | - LC (Least Cost) Searching <br> - Bounding Techniques <br> - FIFO Branch and Bound <br> - LC Branch and Bound <br> - 0/1 Knapsack Problem |
 | **6** | **Computational Complexity** | - Polynomial vs Non-Polynomial Complexity <br> - NP-Hard and NP-Complete Classes <br> - Circuit Satisfiability <br> - Vertex Cover <br> - Subset Sum <br> - Randomized Algorithms <br> - String Matching <br> - Approximation Algorithms |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
