@@ -1,4 +1,4 @@
-# Unite 1 
+# Unite 1  [A](https://chatgpt.com/share/688c3510-a4e8-8012-b427-b4b79456c971)
 ```
 Q1. Define algorithm and explain algorithmic efficiency with examples.
 Q2. Explain asymptotic notations: Big-O, Omega, and Theta with graphical representation.
