@@ -19,7 +19,7 @@
 - Recurrence Relations [GO](https://www.geeksforgeeks.org/dsa/recurrence-relations-a-complete-guide/)
 - Runtime Analysis [GO](https://prepinsta.com/data-structures-and-algorithms-in-python/running-time-analysis/)
 
-### 3. Greedy Method [GO]()
+### 3. Greedy Method [GO](https://www.geeksforgeeks.org/dsa/introduction-to-greedy-algorithm-data-structures-and-algorithm-tutorials/)
 - Greedy Paradigm Overview [GO]()
 - Minimum Cost Spanning Tree [GO]()
 - Knapsack Problem (approximate) [GO]()
@@ -30,7 +30,7 @@
 - Huffman Coding [GO]()
 - Activity Selection Problem [GO]()
 
-### 4. Dynamic Programming & Backtracking [GO]()
+### 4. Dynamic Programming & Backtracking [GO](https://www.geeksforgeeks.org/dsa/backtracking-algorithms/)
 - Principles of Dynamic Programming [GO]()
 - Rod Cutting Problem [GO]()
 - Floyd-Warshall Algorithm [GO]()
