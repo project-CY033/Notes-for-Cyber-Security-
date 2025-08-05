@@ -42,14 +42,14 @@
 - Knapsack Problem [GO]()
 - TSP (Backtracking Approach) [GO]()
 
-### 5. Branch and Bound [GO]()
+### 5. Branch and Bound [GO](https://www.geeksforgeeks.org/dsa/branch-and-bound-algorithm/)
 - LC (Least Cost) Searching [GO]()
 - Bounding Techniques [GO]()
 - FIFO Branch and Bound [GO]()
 - LC Branch and Bound [GO]()
 - 0/1 Knapsack Problem [GO]()
 
-### 6. Computational Complexity [GO]()
+### 6. Computational Complexity [GO](https://www.geeksforgeeks.org/theory-of-computation/introduction-to-computation-complex-theory/)
 - Polynomial vs Non-Polynomial Complexity [GO]()
 - NP-Hard and NP-Complete Classes [GO]()
 - Circuit Satisfiability [GO]()
