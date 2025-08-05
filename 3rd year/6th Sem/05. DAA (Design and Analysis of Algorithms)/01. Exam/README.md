@@ -2,7 +2,7 @@
  
 
 
-### 1. Introduction [GO]()
+### 1. Introduction [GO](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/)
 - Concept of algorithmic efficiency [GO]()
 - Run time analysis of algorithms [GO]()
 - Asymptotic Notations [GO]()
