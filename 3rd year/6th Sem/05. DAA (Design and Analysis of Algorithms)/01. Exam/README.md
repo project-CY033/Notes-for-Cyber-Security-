@@ -1,1 +1,62 @@
+# Algorithm Analysis and Design
+ 
 
+
+### 1. Introduction [GO]()
+- Concept of algorithmic efficiency [GO]()
+- Run time analysis of algorithms [GO]()
+- Asymptotic Notations [GO]()
+- Growth of Functions [GO]()
+- Master's Theorem [GO]()
+
+### 2. Searching and Sorting [GO]()
+- Divide-and-conquer strategy [GO]()
+- Binary Search [GO]()
+- Quick Sort [GO]()
+- Merge Sort [GO]()
+- Heap Sort [GO]()
+- Strassen Matrix Multiplication [GO]()
+- Recurrence Relations [GO]()
+- Runtime Analysis [GO]()
+
+### 3. Greedy Method [GO]()
+- Greedy Paradigm Overview [GO]()
+- Minimum Cost Spanning Tree [GO]()
+- Knapsack Problem (approximate) [GO]()
+- Kruskal's Algorithm [GO]()
+- Prim's Algorithm [GO]()
+- Dijkstra's Algorithm [GO]()
+- Bellman-Ford Algorithm [GO]()
+- Huffman Coding [GO]()
+- Activity Selection Problem [GO]()
+
+### 4. Dynamic Programming & Backtracking [GO]()
+- Principles of Dynamic Programming [GO]()
+- Rod Cutting Problem [GO]()
+- Floyd-Warshall Algorithm [GO]()
+- Matrix Chain Multiplication [GO]()
+- Travelling Salesman Problem [GO]()
+- Longest Common Subsequence (LCS) [GO]()
+- Backtracking Overview [GO]()
+- 8-Queens Problem [GO]()
+- Knapsack Problem [GO]()
+- TSP (Backtracking Approach) [GO]()
+
+### 5. Branch and Bound [GO]()
+- LC (Least Cost) Searching [GO]()
+- Bounding Techniques [GO]()
+- FIFO Branch and Bound [GO]()
+- LC Branch and Bound [GO]()
+- 0/1 Knapsack Problem [GO]()
+
+### 6. Computational Complexity [GO]()
+- Polynomial vs Non-Polynomial Complexity [GO]()
+- NP-Hard and NP-Complete Classes [GO]()
+- Circuit Satisfiability [GO]()
+- Vertex Cover [GO]()
+- Subset Sum [GO]()
+- Randomized Algorithms [GO]()
+- String Matching [GO]()
+- Approximation Algorithms [GO]()
+
+ 
