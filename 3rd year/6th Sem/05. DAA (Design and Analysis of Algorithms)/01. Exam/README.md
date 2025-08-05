@@ -5,7 +5,7 @@
 ### 1. Introduction [GO](https://www.geeksforgeeks.org/dsa/introduction-to-algorithms/)
 - Concept of algorithmic efficiency [GO]()
 - Run time analysis of algorithms [GO]()
-- Asymptotic Notations [GO]()
+- Asymptotic Notations [GO](https://www.geeksforgeeks.org/dsa/types-of-asymptotic-notations-in-complexity-analysis-of-algorithms/)
 - Growth of Functions [GO]()
 - Master's Theorem [GO]()
 
