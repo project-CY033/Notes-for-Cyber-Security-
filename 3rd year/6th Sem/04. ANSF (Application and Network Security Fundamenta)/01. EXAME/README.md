@@ -1,16 +1,17 @@
 ## Unit 1	Introduction	Objective, scope, and outcome of the course.
 
 ## Unit 2	Basic Cyber Security Concepts	
-- Concepts of Confidentiality, Integrity, and Availability (CIA)
-- Threat Modeling
-- Overview of Security Models (OSI and TCP/IP Models)
-- Cyber Security Basic Terminologies
+- [Concepts of Confidentiality, Integrity, and Availability (CIA)](https://www.geeksforgeeks.org/computer-networks/the-cia-triad-in-cryptography/)
+- [Threat Modeling](https://www.geeksforgeeks.org/computer-networks/threat-modelling/)
+- [Overview of Security Models (OSI and TCP/IP Models)](https://www.geeksforgeeks.org/computer-networks/difference-between-osi-model-and-tcp-ip-model/)
+- [Cyber Security Basic Terminologies](https://www.tutorialspoint.com/computer_security/computer_security_terminologies.htm)
 
 ---
 ## Unit 3	Security Threats, Vulnerabilities & Attacks	- Network Protocols
-- Threat, Vulnerability, and Attack
-- TCP Handshaking
-- Password-Based & Address-Based Authentication
+- [Threat, Vulnerability](https://www.geeksforgeeks.org/computer-networks/difference-between-threat-vulnerability-and-risk-in-computer-network/), and [Attack](https://www.geeksforgeeks.org/computer-networks/difference-between-threat-and-attack/)
+
+- [TCP Handshaking](https://www.geeksforgeeks.org/computer-networks/tcp-3-way-handshake-process/)
+- [Password-Based & Address-Based Authentication]()
 - Cryptographic Authentication (Passwords as keys, protocols, KDC, Certification Revocation, Inter-domain, groups, delegation)
 - Authentication of People (Verification techniques, passwords, smart cards, biometrics)
 
@@ -36,6 +37,7 @@
 - Protocol Problems & Assumptions
 - Shared Secret & Public Key Protocols
 - Mutual Authentication
+
 
 
 
