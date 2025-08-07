@@ -1,6 +1,7 @@
 ## Unit 1	Introduction	Objective, scope, and outcome of the course.
 
-## Unit 2	Basic Cyber Security Concepts	- Concepts of Confidentiality, Integrity, and Availability (CIA)
+## Unit 2	Basic Cyber Security Concepts	
+- Concepts of Confidentiality, Integrity, and Availability (CIA)
 - Threat Modeling
 - Overview of Security Models (OSI and TCP/IP Models)
 - Cyber Security Basic Terminologies
@@ -35,6 +36,7 @@
 - Protocol Problems & Assumptions
 - Shared Secret & Public Key Protocols
 - Mutual Authentication
+
 
 
 
