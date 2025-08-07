@@ -32,4 +32,4 @@
 | **Unit 5** | **Network & Security Devices** | - Network Management Security <br> - Security Hardening Guidelines for Devices <br> - Network Vulnerability Assessment Phases <br> - Device Auditing (Switch, Firewall, Router, Core-Switch) <br> - Web Security (SSL/TLS, Secure Electronic Transaction) |
 | **Unit 6** | **Security Policies and Handshake** | - Digital Signatures & Authentication Protocols <br> - Digital Signature Standard (DSS) <br> - Security Policies (High & Low Level, User Issues) <br> - Protocol Problems & Assumptions <br> - Shared Secret & Public Key Protocols <br> - Mutual Authentication |
 
-This table provides a structured overview of the course content. Let me know if you'd like any modifications!
+ 
