@@ -8,7 +8,7 @@
 
 ---
 ## Unit 3	Security Threats, Vulnerabilities & Attacks	- Network Protocols
-- [Threat, Vulnerability](https://www.geeksforgeeks.org/computer-networks/difference-between-threat-vulnerability-and-risk-in-computer-network/), and [Attack](https://www.geeksforgeeks.org/computer-networks/difference-between-threat-and-attack/)
+- [Threat, Vulnerability, and Attack](https://medium.com/@atthahinfo/threat-vulnerability-and-attack-3973cbc4e3b9)
 
 - [TCP Handshaking](https://www.geeksforgeeks.org/computer-networks/tcp-3-way-handshake-process/)
 - [Password-Based & Address-Based Authentication](https://medium.com/@atthahinfo/unit-3-security-threats-vulnerabilities-attacks-network-protocols-e372774eb98c)
@@ -37,6 +37,7 @@
 - Protocol Problems & Assumptions
 - Shared Secret & Public Key Protocols
 - Mutual Authentication
+
 
 
 
