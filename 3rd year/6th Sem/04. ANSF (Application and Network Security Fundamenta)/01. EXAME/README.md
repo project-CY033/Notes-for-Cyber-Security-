@@ -13,7 +13,7 @@
 - [TCP Handshaking](https://www.geeksforgeeks.org/computer-networks/tcp-3-way-handshake-process/)
 - [Password-Based & Address-Based Authentication](https://medium.com/@atthahinfo/unit-3-security-threats-vulnerabilities-attacks-network-protocols-e372774eb98c)
 - [Cryptographic Authentication (Passwords as keys, protocols, KDC, Certification Revocation, Inter-domain, groups, delegation)](https://medium.com/@atthahinfo/cryptographic-authentication-passwords-as-keys-protocols-kdc-certification-revocation-b9ee9d92ab37)
-- [Authentication of People (Verification techniques, passwords, smart cards, biometrics)]()
+- [Authentication of People (Verification techniques, passwords, smart cards, biometrics)](https://www.geeksforgeeks.org/ethical-hacking/what-is-user-authentication-and-why-is-it-important/)
 
 ---
 ## Unit 4	Application Security	- Security for E-commerce (SSL, SET)
@@ -37,6 +37,7 @@
 - Protocol Problems & Assumptions
 - Shared Secret & Public Key Protocols
 - Mutual Authentication
+
 
 
 
