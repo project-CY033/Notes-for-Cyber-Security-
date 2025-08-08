@@ -11,7 +11,7 @@
 - [Threat, Vulnerability](https://www.geeksforgeeks.org/computer-networks/difference-between-threat-vulnerability-and-risk-in-computer-network/), and [Attack](https://www.geeksforgeeks.org/computer-networks/difference-between-threat-and-attack/)
 
 - [TCP Handshaking](https://www.geeksforgeeks.org/computer-networks/tcp-3-way-handshake-process/)
-- [Password-Based & Address-Based Authentication](https://www.miniorange.com/blog/password-authentication/)
+- [Password-Based & Address-Based Authentication](https://medium.com/@atthahinfo/unit-3-security-threats-vulnerabilities-attacks-network-protocols-e372774eb98c)
 - Cryptographic Authentication (Passwords as keys, protocols, KDC, Certification Revocation, Inter-domain, groups, delegation)
 - Authentication of People (Verification techniques, passwords, smart cards, biometrics)
 
@@ -37,6 +37,7 @@
 - Protocol Problems & Assumptions
 - Shared Secret & Public Key Protocols
 - Mutual Authentication
+
 
 
 
