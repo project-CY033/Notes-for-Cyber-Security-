@@ -16,7 +16,7 @@
 - [Authentication of People (Verification techniques, passwords, smart cards, biometrics)](https://medium.com/@atthahinfo/authentication-of-people-verification-techniques-passwords-smart-cards-biometrics-d66b5a847384)
 
 ---
-## Unit 4	[Application Security](https://medium.com/@atthahinfo/unit-4-application-security-8fa5cec3d30d) |&&&&|  [Link-2](https://www.quora.com/profile/Musraf-Khan-37/Unit-4-Application-Security)
+## Unit 4	[Application Security](https://medium.com/@atthahinfo/unit-4-application-security-8fa5cec3d30d) |&&&&|  [Link-2](https://open.substack.com/pub/cyberhubsport/p/authentication-of-people-verification?r=59afwa&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
 - Security for E-commerce (SSL, SET)
 - System Security (Intrusion Detection, Malicious Software, Firewalls)
@@ -39,6 +39,7 @@
 - Protocol Problems & Assumptions
 - Shared Secret & Public Key Protocols
 - Mutual Authentication
+
 
 
 
