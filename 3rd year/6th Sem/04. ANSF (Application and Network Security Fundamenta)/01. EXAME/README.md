@@ -26,7 +26,7 @@
 
 - [Email Security (PGP, S/MIME)](https://open.substack.com/pub/cyberhubsport/p/email-security-pgp-smime?r=59afwa&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
-- IP Security (IPSec Architecture, AH, ESP, Key Management)
+- [IP Security (IPSec Architecture, AH, ESP, Key Management)]()
 - Kerberos V5 (Realms, Delegation, Ticket Lifetimes, Multiple Realms)
 
 ---
@@ -43,6 +43,7 @@
 - Protocol Problems & Assumptions
 - Shared Secret & Public Key Protocols
 - Mutual Authentication
+
 
 
 
