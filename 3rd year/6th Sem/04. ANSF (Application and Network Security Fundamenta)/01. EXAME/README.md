@@ -18,7 +18,8 @@
 ---
 ## Unit 4	[Application Security](https://medium.com/@atthahinfo/unit-4-application-security-8fa5cec3d30d) |&&&&|  [Link-2](https://open.substack.com/pub/cyberhubsport/p/unit-4-application-security?r=59afwa&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
-- Security for E-commerce (SSL, SET)
+- [Security for E-commerce (SSL, SET)](https://open.substack.com/pub/cyberhubsport/p/security-for-e-commerce?r=59afwa&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
 - System Security (Intrusion Detection, Malicious Software, Firewalls)
 - Authentication Applications (Kerberos, X.509)
 - Email Security (PGP, S/MIME)
@@ -39,6 +40,7 @@
 - Protocol Problems & Assumptions
 - Shared Secret & Public Key Protocols
 - Mutual Authentication
+
 
 
 
