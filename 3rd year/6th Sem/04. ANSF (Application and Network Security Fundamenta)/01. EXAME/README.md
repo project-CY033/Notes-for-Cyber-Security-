@@ -31,8 +31,7 @@
 - [Kerberos V5 (Realms, Delegation, Ticket Lifetimes, Multiple Realms)](https://open.substack.com/pub/cyberhubsport/p/kerberos-v5-realms-delegation-ticket?r=59afwa&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
 ---
-## Unit 5	[Network & Security Devices](https://open.substack.com/pub/cyberhubsport/p/network-and-security-devices?r=59afwa&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)	
-| &&&& | [Link](https://open.substack.com/pub/cyberhubsport/p/network-and-security-devices?r=59afwa&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
+## Unit 5	[Network & Security Devices](https://open.substack.com/pub/cyberhubsport/p/network-and-security-devices?r=59afwa&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)	   | &&&& | [Link](https://open.substack.com/pub/cyberhubsport/p/network-and-security-devices?r=59afwa&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false)
 
 - Network Management Security
 - Security Hardening Guidelines for Devices
@@ -47,6 +46,7 @@
 - Protocol Problems & Assumptions
 - Shared Secret & Public Key Protocols
 - Mutual Authentication
+
 
 
 
