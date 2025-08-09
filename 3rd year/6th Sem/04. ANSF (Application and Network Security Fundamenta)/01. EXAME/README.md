@@ -20,7 +20,8 @@
 
 - [Security for E-commerce (SSL, SET)](https://open.substack.com/pub/cyberhubsport/p/security-for-e-commerce?r=59afwa&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
-- System Security (Intrusion Detection, Malicious Software, Firewalls)
+- [System Security (Intrusion Detection, Malicious Software, Firewalls)](https://open.substack.com/pub/cyberhubsport/p/system-security-intrusion-detection?r=59afwa&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
 - Authentication Applications (Kerberos, X.509)
 - Email Security (PGP, S/MIME)
 - IP Security (IPSec Architecture, AH, ESP, Key Management)
@@ -40,6 +41,7 @@
 - Protocol Problems & Assumptions
 - Shared Secret & Public Key Protocols
 - Mutual Authentication
+
 
 
 
