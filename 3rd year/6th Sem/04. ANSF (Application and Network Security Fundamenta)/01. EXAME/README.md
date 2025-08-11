@@ -41,12 +41,14 @@
 
 ---
 ## Unit 6	Security Policies and Handshake	
-- Digital Signatures & Authentication Protocols
-- Digital Signature Standard (DSS)
-- Security Policies (High & Low Level, User Issues)
+- [Digital Signatures & Authentication Protocols](https://www.geeksforgeeks.org/computer-networks/digital-signatures-certificates/)
+- [Digital Signature Standard (DSS)](https://www.geeksforgeeks.org/computer-networks/digital-signature-standard-dss/)
+- [Security Policies (High & Low Level, User Issues)](https://open.substack.com/pub/cyberhubsport/p/security-policies-high-and-low-level?r=59afwa&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
 - Protocol Problems & Assumptions
 - Shared Secret & Public Key Protocols
 - Mutual Authentication
+
 
 
 
