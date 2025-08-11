@@ -40,12 +40,14 @@
 - Web Security (SSL/TLS, Secure Electronic Transaction)
 
 ---
-## Unit 6	Security Policies and Handshake	- Digital Signatures & Authentication Protocols
+## Unit 6	Security Policies and Handshake	
+- Digital Signatures & Authentication Protocols
 - Digital Signature Standard (DSS)
 - Security Policies (High & Low Level, User Issues)
 - Protocol Problems & Assumptions
 - Shared Secret & Public Key Protocols
 - Mutual Authentication
+
 
 
 
