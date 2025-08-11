@@ -45,9 +45,12 @@
 - [Digital Signature Standard (DSS)](https://www.geeksforgeeks.org/computer-networks/digital-signature-standard-dss/)
 - [Security Policies (High & Low Level, User Issues)](https://open.substack.com/pub/cyberhubsport/p/security-policies-high-and-low-level?r=59afwa&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 
-- Protocol Problems & Assumptions
-- Shared Secret & Public Key Protocols
-- Mutual Authentication
+- [Protocol Problems & Assumptions](https://open.substack.com/pub/cyberhubsport/p/protocol-problems-and-assumptions?r=59afwa&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
+- [Shared Secret & Public Key Protocols](https://open.substack.com/pub/cyberhubsport/p/shared-secret-and-public-key-protocols?r=59afwa&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
+- [Mutual Authentication](https://www.cloudflare.com/en-gb/learning/access-management/what-is-mutual-authentication/)
+
 
 
 
