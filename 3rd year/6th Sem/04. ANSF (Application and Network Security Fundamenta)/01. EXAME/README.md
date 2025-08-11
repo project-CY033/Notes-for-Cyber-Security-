@@ -13,7 +13,7 @@
 - [TCP Handshaking](https://www.geeksforgeeks.org/computer-networks/tcp-3-way-handshake-process/)
 - [Password-Based & Address-Based Authentication](https://medium.com/@atthahinfo/unit-3-security-threats-vulnerabilities-attacks-network-protocols-e372774eb98c)
 - [Cryptographic Authentication (Passwords as keys, protocols, KDC, Certification Revocation, Inter-domain, groups, delegation)](https://medium.com/@atthahinfo/cryptographic-authentication-passwords-as-keys-protocols-kdc-certification-revocation-b9ee9d92ab37)
-- [Authentication of People (Verification techniques, passwords, smart cards, biometrics)](https://medium.com/@atthahinfo/authentication-of-people-verification-techniques-passwords-smart-cards-biometrics-d66b5a847384)
+- [Authentication of People (Verification techniques, passwords, smart cards, biometrics)](https://medium.com/@atthahinfo/d66b5a847384)
 
 ---
 ## Unit 4	[Application Security](https://medium.com/@atthahinfo/unit-4-application-security-8fa5cec3d30d) |&&&&|  [Link-2](https://open.substack.com/pub/cyberhubsport/p/unit-4-application-security?r=59afwa&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
@@ -46,6 +46,7 @@
 - Protocol Problems & Assumptions
 - Shared Secret & Public Key Protocols
 - Mutual Authentication
+
 
 
 
