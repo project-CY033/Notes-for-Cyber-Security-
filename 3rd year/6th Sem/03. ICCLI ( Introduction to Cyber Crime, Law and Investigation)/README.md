@@ -22,7 +22,8 @@
 - ### Objective
 - ### scope and outcome of the course
 
-## Unite - 2 Cyber World:
+## [Unite - 2 Cyber World:](https://open.substack.com/pub/cyberhubsport/p/cyber-world?r=59afwa&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+
 - ### An overview
 - ### The internet and online resources
 - ### Security of information
