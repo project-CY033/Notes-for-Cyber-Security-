@@ -29,7 +29,7 @@
 - ### Security of information
 - ### Digital signature
 
-## Unite - 3 Cyber Law:
+## [Unite - 3 Cyber Law:](https://open.substack.com/pub/cyberhubsport/p/iccli-unite-3-cyber-law?r=59afwa&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
 - ### An Overview
 - ### Introduction about the cyber space
 - ### Regulation of cyber space introducing cyber law
@@ -40,7 +40,7 @@
 - ### Overview of other laws amended by the IT Act, 2000, 
 - ### National Policy on Information Technology 2012.
 
-## [Unite - 4 Cyber Crimes:](https://open.substack.com/pub/cyberhubsport/p/iccli-unite-3-cyber-law?r=59afwa&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true)
+## Unite - 4 Cyber Crimes:
 
 - ### Classification of cyber crimes
 - ### Distinction between cyber crime and conventional crimes
