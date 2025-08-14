@@ -49,7 +49,8 @@
 - ### Reasons for commission of cyber crime
 - ### Cyber forensic
 - ### Cyber criminals and their objectives
-## Kinds of cyber crimes cyber stalking
+## Kinds of cyber crimes 
+- ### cyber stalking
 - ### cyber pornography
 - ### forgery and fraud
 - ### crime related to IPRs
