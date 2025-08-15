@@ -564,6 +564,149 @@ Principles may vary per organization, but key examples include:
 
 
 
+---
+
+# SECTION VI: E-Governance for Development
+
+## 6.1 Introduction
+
+Studies across African countries have noted that government in developing countries:
+- Costs too much
+- Delivers too little
+- Is not sufficiently responsive or accountable
+
+**Good governance** aims to address these issues by:
+- Improving government processes
+- Connecting citizens
+- Building interactions with and within civil society
+
+**E-Governance** provides the ICT-based power to bring about three major change potentials:
+
+1. **Automation**: Replacing human-executed processes (e.g., clerical functions) with ICT-based systems.
+2. **Informatization**: Supporting existing human-executed informational processes such as decision-making, communication, and implementation.
+3. **Transformation**: Creating new ICT-executed processes or enabling new human-executed processes (e.g., innovative methods of public service delivery).
+
+---
+
+## 6.2 Benefits of E-Governance for Development
+
+The changes from automation, informatization, and transformation can lead to **five benefits**:
+
+### Efficiency Gains
+- **Cheaper Governance**: Same outputs at lower cost.
+- **Governance that does more**: More outputs at the same total cost.
+- **Quicker Governance**: Same outputs in less time.
+
+### Effectiveness Gains
+- **Governance that works better**: Higher quality outputs at the same cost and time.
+- **Governance that is innovative**: Producing new outputs.
+
+---
+
+## 6.3 What E-Governance for Development Covers
+
+E-Governance focuses on public sector applications, not private-sector e-commerce/business.  
+It covers **three main domains**:
+
+1. **Improving Government Processes (e-Administration)**
+2. **Connecting Citizens (e-Citizens and e-Services)**
+3. **Building Interactions within Civil Society (e-Society)**
+
+---
+
+### 6.3.1 Improving Processes: e-Administration
+
+Initiatives to improve public sector efficiency include:
+
+- **Cutting Process Costs**: Replace expensive human processes with lower-cost ICT solutions.  
+  *Example: Egypt's national ID system.*
+- **Managing Process Performance**: Monitor and control use of resources using ICT.  
+  *Example: Tanzania's HR and Payroll systems.*
+- **Making Strategic Connections in Government**: Link agencies, ministries, and databases to improve decision-making.  
+  *Example: China's Agenda 21 network.*
+- **Creating Empowerment**: Transfer decision-making to more localized levels through new ICT-enabled processes.  
+  *Example: South Africa's local council intranet.*
+
+---
+
+### 6.3.2 e-Administration Trends in Developing Countries
+
+1. ICT usage is moving from clerical levels to operational, tactical, and even political leadership.
+2. Focus is shifting from **automation → informatization → transformation**.
+3. Applications are evolving from **processing** (computers) to **communication** (networks) and now to integrated processing + communication.
+
+---
+
+### 6.3.3 Developing Country e-Administration Case Studies
+
+**Case 1: Egypt – National ID System**  
+A comprehensive database of:
+- 85M birth records
+- 34M death records
+- 12M marriage records
+- 2M divorce records  
+Result: Secure national ID cards, cost savings, and a foundation for other public sector applications.
+
+**Case 2: Tanzania – Management Control**  
+- Integrated HR & Payroll for 280,000 public servants
+- Cost: US$6.5M
+- Reduced ghost workers and improved expenditure control via Integrated Financial Management System (IFMS).
+
+**Case 3: China – Sustainable Development Strategy**  
+- ICT-enabled Agenda 21 network linking national/local government and research institutions.
+- Provided policymakers with centralized environmental and development data.
+
+**Case 4: South Africa – Breaking Apartheid Legacy**  
+- Johannesburg Metropolitan Council intranet project
+- Increased inclusivity and transparency in council processes.
+
+---
+
+## 6.4 Connecting Citizens: e-Citizens and e-Services
+
+These initiatives address **government-citizen relationships**:
+
+- **Talking to Citizens**: Provide details of public sector activities for accountability.  
+  *Example: South Korea's OPEN system.*
+- **Listening to Citizens**: Gather citizen input into public sector decisions.  
+  *Example: South Africa’s Independent Electoral Commission ICT systems.*
+- **Improving Public Services**: Deliver higher-quality, more convenient, and cost-effective services.  
+  *Example: Chile's online tax return system.*
+
+---
+
+### 6.4.1 Developing Country e-Citizens/e-Services Case Studies
+
+**Case 1: South Korea – Greater Openness of Local Government**  
+- **OPEN System**: Online portal for monitoring license/permit applications.
+- Anti-corruption index and real-time application tracking.
+- Result: Reduced corruption and increased citizen trust.
+
+**Case 2: South Africa – Supporting Free and Fair Elections**  
+- National satellite-based network
+- Bar-code voter registration for 18.4M citizens
+- GIS-based voting districts and a national voter roll
+- Result: Award-winning, secure, and efficient elections.
+
+**Case 3: Chile – Better Tax Return Filing**  
+- Step 1: Online publication of tax info.
+- Step 2: Interactive tax status checks.
+- Step 3: Full online tax return filing.  
+Result:  
+- Processing reduced from 25 days to 12 hours.
+- Earlier refunds for online filers.
+
+---
+
+## References
+
+1. Flak, L.S., Olsen, D.H., & Wolcott, P. (2005). *Local E-Government in Norway*, Scandinavian Journal of Information Systems, 17(2), 41–48.  
+2. [Bloom's Taxonomy Overview](http://schoolnet.org.za/teach10/resources/dep/thinking_frameworks/bloom_taxonomy_4.htm)  
+3. [What is Knowledge Management?](http://www.kmworld.com/Articles/Editorial/What-Is/What-is-KM-Knowledge-Management-Explained-122649.aspx)  
+4. [E-commerce – Wikipedia](https://en.m.wikipedia.org/wiki/E-commerce)  
+5. Microsoft (2000). *IEC of South Africa Wins Computerworld Smithsonian Award*.  
+6. World Bank (2000). *Chilean Tax System Online*. [Link](http://www1.worldbank.org/publicsector/egov/chile_taxcs.htm)  
+7. World Bank (2000). *OPEN: Seoul's Anticorruption Project*. [Link](http://www1.worldbank.org/publicsector/egov/seoulcs.htm)  
 
 
 
