@@ -68,7 +68,8 @@
 - ### Penalties and Offences
 - ### Intermediaries
 
-## Unite - 6 Data Protection Law: 
+## [Unite - 6 Data Protection Law:](https://open.substack.com/pub/cyberhubsport/p/unite-6-data-protection-law?r=59afwa&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false) 
+
 - ### Data Protection Laws
 - ### Indian evidence act
 - ### Examiner of Electronic evidence
