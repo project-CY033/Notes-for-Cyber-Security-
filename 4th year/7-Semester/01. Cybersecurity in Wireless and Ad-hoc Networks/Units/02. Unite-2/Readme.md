@@ -5,9 +5,9 @@
 
 ### One-Way Functions
 ### Pseudorandom Generators
-### Hash Functions
-### Block Ciphers
-### Stream Ciphers
-### Access Control Methods
-### Message Authentication
-### Digital Signatures
+### Hash Functions [Clicl](https://www.geeksforgeeks.org/competitive-programming/cryptography-hash-functions/)
+### Block Ciphers [Clicl]()
+### Stream Ciphers [Clicl]()
+### Access Control Methods [Clicl]()
+### Message Authentication [Clicl]()
+### Digital Signatures [Clicl]()
