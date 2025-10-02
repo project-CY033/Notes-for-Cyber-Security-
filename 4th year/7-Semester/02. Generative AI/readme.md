@@ -1,4 +1,4 @@
-# Generayive Ai![alt text](image.png)
+# Generayive Ai
 ---
 ## syllabus 
 <details>
