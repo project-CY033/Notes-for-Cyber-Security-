@@ -2,12 +2,12 @@
 
 ## **Unit 1: Fundamentals of Security and Threats**  
 #### 1.1 Introduction to Security and the CIA Triad  [Click](https://www.geeksforgeeks.org/computer-networks/the-cia-triad-in-cryptography/)
-#### 1.2 Security Concepts  
+#### 1.2 Security Concepts  [Click](https://www.geeksforgeeks.org/computer-networks/key-security-concepts/)
 ####  1.2.1 Exploit, Threat, Vulnerability, Risk, and Attack  
 ####  1.2.2 Malware Overview  
 #### 1.3 Malware Terminology  
 ####  1.3.1 Rootkits, Trapdoors, Botnets, and Keyloggers  
- #### 1.3.2 Honeypots  
+####  1.3.2 Honeypots  
 #### 1.4 Types of Security Attacks  
 ####  1.4.1 Active and Passive Attacks  
 ####  1.4.2 IP Spoofing, Tear Drop, DoS, and DDoS  
@@ -16,9 +16,9 @@
 #### 1.5 Types of Security Vulnerabilities  
 ####  1.5.1 Buffer Overflows  
 ####  1.5.2 Invalidated Input  
-#### 1.5.3 Race Conditions  
-#### 1.5.4 Access Control Problems  
-#### 1.5.5 Weaknesses in Authentication, Authorization, or Cryptographic Practices  
+####  1.5.3 Race Conditions  
+####  1.5.4 Access Control Problems  
+####  1.5.5 Weaknesses in Authentication, Authorization, or Cryptographic Practices  
 
 ## **Unit 2: Cryptographic Techniques and Mechanisms**  
 #### 2.1 One-Way Functions and Pseudorandom Generators  
