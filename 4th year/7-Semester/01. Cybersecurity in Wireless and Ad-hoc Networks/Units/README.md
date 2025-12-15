@@ -1,54 +1,54 @@
 # **Table of Contents**
 
-**Unit 1: Fundamentals of Security and Threats**  
-1.1 Introduction to Security and the CIA Triad  
-1.2 Security Concepts  
- 1.2.1 Exploit, Threat, Vulnerability, Risk, and Attack  
- 1.2.2 Malware Overview  
-1.3 Malware Terminology  
- 1.3.1 Rootkits, Trapdoors, Botnets, and Keyloggers  
- 1.3.2 Honeypots  
-1.4 Types of Security Attacks  
- 1.4.1 Active and Passive Attacks  
- 1.4.2 IP Spoofing, Tear Drop, DoS, and DDoS  
- 1.4.3 XSS, SQL Injection, Smurf, and Man-in-the-Middle Attacks  
- 1.4.4 Format String Attack  
-1.5 Types of Security Vulnerabilities  
- 1.5.1 Buffer Overflows  
- 1.5.2 Invalidated Input  
- 1.5.3 Race Conditions  
- 1.5.4 Access Control Problems  
- 1.5.5 Weaknesses in Authentication, Authorization, or Cryptographic Practices  
+## **Unit 1: Fundamentals of Security and Threats**  
+#### 1.1 Introduction to Security and the CIA Triad  [Click](https://www.geeksforgeeks.org/computer-networks/the-cia-triad-in-cryptography/)
+#### 1.2 Security Concepts  
+####  1.2.1 Exploit, Threat, Vulnerability, Risk, and Attack  
+####  1.2.2 Malware Overview  
+#### 1.3 Malware Terminology  
+####  1.3.1 Rootkits, Trapdoors, Botnets, and Keyloggers  
+ #### 1.3.2 Honeypots  
+#### 1.4 Types of Security Attacks  
+####  1.4.1 Active and Passive Attacks  
+####  1.4.2 IP Spoofing, Tear Drop, DoS, and DDoS  
+####  1.4.3 XSS, SQL Injection, Smurf, and Man-in-the-Middle Attacks  
+####  1.4.4 Format String Attack  
+#### 1.5 Types of Security Vulnerabilities  
+####  1.5.1 Buffer Overflows  
+####  1.5.2 Invalidated Input  
+#### 1.5.3 Race Conditions  
+#### 1.5.4 Access Control Problems  
+#### 1.5.5 Weaknesses in Authentication, Authorization, or Cryptographic Practices  
 
-**Unit 2: Cryptographic Techniques and Mechanisms**  
-2.1 One-Way Functions and Pseudorandom Generators  
-2.2 Hash Functions  
-2.3 Symmetric Key Cryptography  
- 2.3.1 Block Ciphers  
- 2.3.2 Stream Ciphers  
-2.4 Access Control Methods  
-2.5 Message Authentication and Digital Signatures  
+## **Unit 2: Cryptographic Techniques and Mechanisms**  
+#### 2.1 One-Way Functions and Pseudorandom Generators  
+#### 2.2 Hash Functions  
+#### 2.3 Symmetric Key Cryptography  
+####  2.3.1 Block Ciphers  
+####  2.3.2 Stream Ciphers  
+#### 2.4 Access Control Methods  
+#### 2.5 Message Authentication and Digital Signatures  
 
-**Unit 3: Security Challenges and Protocols in Wireless Networks**  
-3.1 Vulnerabilities and Security Challenges of Wireless Networks  
-3.2 Trust Assumptions and Adversary Models  
-3.3 Security Protocols for Wireless Networks  
-3.4 Attacks Against Naming and Addressing in the Internet  
-3.5 Security Protocols for Address Resolution and Auto-Configuration  
+## **Unit 3: Security Challenges and Protocols in Wireless Networks**  
+#### 3.1 Vulnerabilities and Security Challenges of Wireless Networks  
+#### 3.2 Trust Assumptions and Adversary Models  
+#### 3.3 Security Protocols for Wireless Networks  
+#### 3.4 Attacks Against Naming and Addressing in the Internet  
+#### 3.5 Security Protocols for Address Resolution and Auto-Configuration  
 
-**Unit 4: Advanced Security Protocols in IP and Ad-hoc Networks**  
-4.1 Security for Global IP Mobility  
-4.2 IP Security (IPSec) Protocol  
-4.3 Key Establishment and Revocation Protocols in Sensor Networks  
-4.4 Secure Neighbor Discovery  
-4.5 Secure Routing Protocols in Multihop Wireless Networks  
-4.6 Provable Security for Ad-hoc Network Routing Protocols  
+## **Unit 4: Advanced Security Protocols in IP and Ad-hoc Networks**  
+#### 4.1 Security for Global IP Mobility  
+#### 4.2 IP Security (IPSec) Protocol  
+#### 4.3 Key Establishment and Revocation Protocols in Sensor Networks  
+#### 4.4 Secure Neighbor Discovery  
+#### 4.5 Secure Routing Protocols in Multihop Wireless Networks  
+#### 4.6 Provable Security for Ad-hoc Network Routing Protocols  
 
-**Unit 5: Privacy and Security in Ad-hoc and Vehicular Networks**  
-5.1 Privacy-Preserving Routing in Ad-hoc Networks  
-5.2 Location Privacy in Vehicular Ad-hoc Networks  
-5.3 Secure Protocols for Behavior Enforcement  
-5.4 Game Theoretic Model of Packet Forwarding  
+## **Unit 5: Privacy and Security in Ad-hoc and Vehicular Networks**  
+#### 5.1 Privacy-Preserving Routing in Ad-hoc Networks  
+#### 5.2 Location Privacy in Vehicular Ad-hoc Networks  
+#### 5.3 Secure Protocols for Behavior Enforcement  
+#### 5.4 Game Theoretic Model of Packet Forwarding  
 
 ---
 ---
